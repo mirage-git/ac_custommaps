@@ -22,6 +22,8 @@ mir_goldrush: Basic CTF map in an underground mine.
 
 mir_gunrange: Good for testing your shooting skills solo. Otherwise designed for CTF.
 
+mir_hangar1 & mir_hangar2: Two maps both set in a desert airbase hangar. Exclusively for teamplay.
+
 mir_oilrig: A small oil rig in the middle of the ocean. Intended for team-based modes.
 
 mir_rooftops: Similarly open to mir_creek. All modes supported.
