@@ -28,6 +28,8 @@ mir_lasertag: Obscenely small map designed for 2v2 teamplay, though FFA modes ar
 
 mir_manor: An long abandoned two-story manor rotting away in the middle of nowhere. Good for all gametypes, but its size means you'll want a high player count.
 
+mir_neighbor: Similar in design to Nuketown. Decently fast and frantic for all modes.
+
 mir_oilrig: A small oil rig in the middle of the ocean. Intended for team-based modes.
 
 mir_rooftops: Similarly open to mir_creek. All modes supported.
