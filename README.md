@@ -18,6 +18,8 @@ mir_creek: Very open map with support for all gamemodes. My first map ever!
 
 mir_duel: Exclusively designed for 1v1 TOSOK gameplay. Spin around and take yer opponent's head off!
 
+mir_fort: CTF map housed inside an old fortress. All modes supported.
+
 mir_goldrush: Basic CTF map in an underground mine. All modes supported.
 
 mir_gunrange: Good for testing your shooting skills solo. Otherwise designed for CTF. No FFA spawns.
