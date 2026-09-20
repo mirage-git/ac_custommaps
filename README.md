@@ -16,7 +16,9 @@ mir_corner: A street corner in an abandoned district. Intended for CTF.
 
 mir_creek: Very open map with support for all gamemodes. My first map ever!
 
-mir_dom_oasis & mir_dom_shaft: Two maps with the flags in the center, surrounded by flanking points, with the team bases further out from there. Intended to be played in CTF only as a sudo-Domination style game.
+mir_dom_castle: Both CLA and RVSF spawnrooms are close to each other, with both CTF flags on the opposite side of the map. Intended to be played in CTF only as a sudo-Domination style game. FFA modes supported.
+
+mir_dom_oasis & mir_dom_shaft: Two maps with the flags in the center, surrounded by flanking points, with the team bases further out from there. Intended to be played in CTF only as a sudo-Domination style game. Basic FFA modes support.
 
 mir_duel: Exclusively designed for 1v1 TOSOK gameplay. Spin around and take yer opponent's head off!
 
