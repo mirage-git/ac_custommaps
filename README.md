@@ -2,6 +2,10 @@ All maps here were designed for AssaultCube 1.3.0.2 Lockdown Edition. They likel
 
 These maps are free to edit and adjust, BUT only with credits to my original work.
 
+.CGZ files are Maps and should be installed in your AssaultCube maps folder.
+
+.JPG files are map preview images (where applicable) and should be installed in maps/preview subfolder.
+
 ---
 
 mir_ancient: Based on "Tomb" from TS1. Deathmatch focused map but has support for all modes.
@@ -39,3 +43,5 @@ mir_neighbor: Similar in design to Nuketown. Decently fast and frantic for all m
 mir_oilrig: A small oil rig in the middle of the ocean. Intended for team-based modes with FFA mode support.
 
 mir_rooftops: Similarly open to mir_creek. All modes supported.
+
+mir_scrap: Scrapyard in the middle of nowhere. Similar in design and concepts to fy_snow and COD Shipment. Small map for all modes.
