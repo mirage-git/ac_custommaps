@@ -16,6 +16,8 @@ mir_buildsite: The CLA have taken over a construction site and the RVSF have res
 
 mir_canyon: TOSOK map with other team gamemode support thrown in.
 
+mir_complex: Long competitive CTF map first. There's a lot of boxes and else to hide behind or jump on to get different angles to shoot from. No FFA support.
+
 mir_corner: A street corner in an abandoned district. Intended for CTF.
 
 mir_creek: Very open map with support for all gamemodes. My first map ever!
